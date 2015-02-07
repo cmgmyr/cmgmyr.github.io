@@ -1,0 +1,25 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Chris Gmyr
+tagline:          'Web Development, Business, and other cool stuff'
+url: 			  http://www.chrisgmyr.com
+paginate:         5
+baseurl:          /
+author:
+  name:           Chris Gmyr
+  url:            https://twitter.com/cmgmyr
+  email:          cmgmyr@gmail.com
+
+pages_list:
+  About: '/about'
+  Connect: '/connect'
+  Resume: '/resume'
+  Archive: '/archive'
+  Feed: '/atom.xml'
