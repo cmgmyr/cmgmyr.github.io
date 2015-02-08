@@ -9,5 +9,5 @@ Found at: [chrisgmyr.com](http://www.chrisgmyr.com)
 - [ ] Fix related post links
 - [ ] Add social profiles to sidebar
 - [ ] Add personal image to header 
-- [ ] Swap favicon
+- [x] Swap favicon
 - [ ] Switch feedburner to new atom.xml file
