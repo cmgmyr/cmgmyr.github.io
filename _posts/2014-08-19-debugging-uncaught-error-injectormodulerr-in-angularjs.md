@@ -12,7 +12,7 @@ dsq_thread_id:
 categories:
   - Angular
 ---
-In a current AngularJS project at work I came across the following error after merging some changes from a teammate.
+In a current AngularJS project at work I came across the following error after merging some changes from a teammate.<!--more-->
 
 <div class="hl-container">
   <div class="hl-main">
