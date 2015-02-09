@@ -16,8 +16,13 @@
       `layout: page` in the front-matter. See readme for usage.
     {% endcomment %}
 
-    {% for node in site.pages_list %}
-          <a class="sidebar-nav-item{% if page.url == node[1] %} active{% endif %}" href="{{ node[1] }}">{{ node[0] }}</a>
+    {% for page in site.pages_list %}
+      <a class="sidebar-nav-item{% if page.url == page[1] %} active{% endif %}" href="{{ page[1] }}">{{ page[0] }}</a>
+    {% endfor %}
+
+    <div class="sidebar-nav-item">Follow Me</div>
+    {% for page in site.follow_me %}
+      <a class="sidebar-nav-item{% if page.url == page[1] %} active{% endif %}" href="{{ page[1] }}">{{ page[0] }}</a>
     {% endfor %}
   </nav>
 

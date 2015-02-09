@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Chris Gmyr
 tagline:          'Web Development, Business, and other cool stuff'
-url: 			  http://www.chrisgmyr.com
+url: 			        http://www.chrisgmyr.com
 paginate:         5
 baseurl:          /
 author:
@@ -23,3 +23,10 @@ pages_list:
   Resume: '/resume'
   Archive: '/archive'
   Feed: 'http://feeds.feedburner.com/chrisgmyr'
+
+follow_me:
+  Github: 'https://github.com/cmgmyr'
+  Instagram: 'http://instagram.com/cmgmyr'
+  LinkedIn: 'http://www.linkedin.com/in/chrisgmyr'
+  StackOverflow: 'http://stackoverflow.com/users/1791532/chris-g'
+  Twitter: 'https://twitter.com/cmgmyr'
