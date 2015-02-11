@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /?page_id=2
+Disallow: /?p=588
+Disallow: /contact/
+Disallow: /testimonials/
+Disallow: /sellers/
+Disallow: /blog/
+Disallow: /tag/
+Disallow: /?page_id=69
+Disallow: /2008/
+Disallow: /2009/
+Disallow: /2010/
+Disallow: /?p=7
+Disallow: /?page_id=66
+Allow: /
