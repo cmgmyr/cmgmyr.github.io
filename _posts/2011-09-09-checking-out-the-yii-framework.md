@@ -3,10 +3,6 @@ title: Checking out the Yii Framework
 author: Chris
 layout: post
 permalink: /2011/09/checking-out-the-yii-framework/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 409420600
 categories:

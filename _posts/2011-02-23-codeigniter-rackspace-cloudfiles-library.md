@@ -5,10 +5,6 @@ layout: post
 permalink: /2011/02/codeigniter-rackspace-cloudfiles-library/
 dsq_thread_id:
   - 238676521
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 categories:
   - Code
   - CodeIgniter

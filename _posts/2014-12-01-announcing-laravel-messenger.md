@@ -11,7 +11,7 @@ tags:
   - laravel
   - package development
 ---
-If you haven&#8217;t seen it yet, please take a look at the package <a href="https://github.com/cmgmyr/laravel-messenger" target="_blank">here</a>. Laravel Messenger will allow you to add a full user messaging system into your Laravel application.<!--more-->
+If you haven't seen it yet, please take a look at the package [here](https://github.com/cmgmyr/laravel-messenger). Laravel Messenger will allow you to add a full user messaging system into your Laravel application.<!--more-->
 
 Common uses are:
 
@@ -19,4 +19,4 @@ Common uses are:
   * Group messaging (only participants can see their threads)
   * One to one messaging (private or direct thread)
 
-Please feel free to try it out in your next project! More information is available on the <a href="https://github.com/cmgmyr/laravel-messenger" target="_blank">GitHub page</a>.
+Please feel free to try it out in your next project! More information is available on the [GitHub page](https://github.com/cmgmyr/laravel-messenger).

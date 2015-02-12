@@ -3,10 +3,6 @@ title: Using BitBucket and GitHub with hg-git
 author: Chris
 layout: post
 permalink: /2012/11/using-bitbucket-and-github-with-hg-git/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 919281385
 categories:

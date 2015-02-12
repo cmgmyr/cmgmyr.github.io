@@ -11,6 +11,6 @@ tags:
   - laravel
   - package development
 ---
-<a href="https://twitter.com/laravelphp/status/562986210172616708" target="_blank">Laravel 5</a> was announced today, so what better time to upgrade my <a href="https://github.com/cmgmyr/laravel-messenger" target="_blank">Laravel Messenger</a> package!?! Current L5 changes are on the **develop** branch for the time being. <!--more-->This will be merged into master and tagged V2.0 as soon as I get a little more feedback and fix any potential issues.
+[Laravel 5](https://twitter.com/laravelphp/status/562986210172616708) was announced today, so what better time to upgrade my [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) package!?! Current L5 changes are on the **develop** branch for the time being. <!--more-->This will be merged into master and tagged V2.0 as soon as I get a little more feedback and fix any potential issues.
 
-Have any issues? Please <a href="https://github.com/cmgmyr/laravel-messenger/issues" target="_blank">report them</a>
+Have any issues? Please [report them](https://github.com/cmgmyr/laravel-messenger/issues)

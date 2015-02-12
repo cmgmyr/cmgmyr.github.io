@@ -5,10 +5,6 @@ layout: post
 permalink: /2011/04/encrypt-and-decrypt-secure-data-with-php/
 dsq_thread_id:
   - 271559433
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 categories:
   - Code
   - PHP

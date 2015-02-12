@@ -3,10 +3,6 @@ title: Batch renaming files in windows
 author: Chris
 layout: post
 permalink: /2011/09/batch-renaming-files-in-windows/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 417549286
 categories:

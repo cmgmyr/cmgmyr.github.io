@@ -3,10 +3,6 @@ title: Sync htdocs and MySQL data with Dropbox
 author: Chris
 layout: post
 permalink: /2012/11/sync-htdocs-and-mysql-data-with-dropbox/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 933350118
 categories:

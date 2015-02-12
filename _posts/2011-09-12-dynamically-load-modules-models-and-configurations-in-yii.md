@@ -3,10 +3,6 @@ title: Dynamically load modules, models, and configurations in Yii
 author: Chris
 layout: post
 permalink: /2011/09/dynamically-load-modules-models-and-configurations-in-yii/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 412388868
 categories:

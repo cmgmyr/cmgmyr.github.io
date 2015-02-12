@@ -3,10 +3,6 @@ title: 'Advertising Tip #1: Advertise!'
 author: Chris
 layout: post
 permalink: /2011/09/advertising-tip-1-advertise/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 415516017
 categories:

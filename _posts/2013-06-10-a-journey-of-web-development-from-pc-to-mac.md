@@ -3,10 +3,6 @@ title: A journey of web development from PC to Mac
 author: Chris
 layout: post
 permalink: /2013/06/a-journey-of-web-development-from-pc-to-mac/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 1386734650
 categories:
@@ -20,13 +16,13 @@ At the end of 2012 I found myself pretty fed up with the PC world, and jealous t
 
 **I ended up getting:**
 
-  * 15&#8243; MacBook Pro Retina with 2.6GHz Intel Core i7, with turbo boost up to 3.6GHz, 16GB RAM, 512GB SSD
-  * 27&#8243; Thunderbolt Widescreen monitor
+  * 15" MacBook Pro Retina with 2.6GHz Intel Core i7, with turbo boost up to 3.6GHz, 16GB RAM, 512GB SSD
+  * 27" Thunderbolt Widescreen monitor
   * Wireless Keyboard
   * Wireless Trackpad
   * Super Drive
 
-The first thing that I initially noticed was the speed of this machine. It is nothing less than amazingly blazing fast! You click on a program and it instantly comes up, not just the &#8220;welcome&#8221; screen&#8230;the whole app. After a little while you get more used to it, but it&#8217;s really evident when jump back on the PC to do something and you have to wait a few more seconds (which seems like forever).
+The first thing that I initially noticed was the speed of this machine. It is nothing less than amazingly blazing fast! You click on a program and it instantly comes up, not just the "welcome" screen...the whole app. After a little while you get more used to it, but it's really evident when jump back on the PC to do something and you have to wait a few more seconds (which seems like forever).
 
 As with all PC to Mac conversions, there were a number of programs that I had to get in order to keep my workflow as similar as I could. The last thing that I wanted to do was to learn a new OS and a bunch of new software.
 

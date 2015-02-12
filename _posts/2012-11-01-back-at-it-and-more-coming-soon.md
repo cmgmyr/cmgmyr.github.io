@@ -3,10 +3,6 @@ title: 'Back at it and more coming soon&#8230;'
 author: Chris
 layout: post
 permalink: /2012/11/back-at-it-and-more-coming-soon/
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 dsq_thread_id:
   - 909846189
 categories:

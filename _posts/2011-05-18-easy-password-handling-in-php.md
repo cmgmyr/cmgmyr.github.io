@@ -5,10 +5,6 @@ layout: post
 permalink: /2011/05/easy-password-handling-in-php/
 dsq_thread_id:
   - 307089196
-shareaholic_disable_share_buttons:
-  - 0
-shareaholic_disable_open_graph_tags:
-  - 0
 categories:
   - Code
   - PHP
