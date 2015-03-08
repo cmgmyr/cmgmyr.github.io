@@ -17,6 +17,6 @@ My [resume][1] is also available in PDF or DOCX formats
 Around the web:
 
   * <a href="https://laravel-news.com/2014/11/laravel-user-messenger/" target="_blank">Laravel Messenger Writeup</a>
-  * <a href="https://laravel-news.com/2015/01/artisan-files-chris-gmyr/" target="_blank">Laravel News Interview</a>
+  * <a href="https://laravel-news.com/2015/01/artisan-files-chris-gmyr/" target="_blank">Laravel News Interview</a> <small>(also published through [LeanPub](https://leanpub.com/theartisanfiles-volume2))</small>
 
  [1]: /resume/
