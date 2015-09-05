@@ -11,7 +11,7 @@ Over the last few years I've really enjoyed working on open source projects, bot
 * [song-suggest](https://github.com/cmgmyr/song-suggest) _Song Suggestion Manager for Bands (Laravel 4)_
 * [homestead-multibox](https://github.com/cmgmyr/homestead-multibox) _Laravel's Homestead for multiple projects on multiple VM's_
 
-## Other Projects
+## Other Projects I Contribute To
 
 * [Laravel: cashier](https://github.com/laravel/cashier)
 * [Laravel: homestead](https://github.com/laravel/homestead)
@@ -21,6 +21,7 @@ Over the last few years I've really enjoyed working on open source projects, bot
 * [Janhenkgerritsen: codeception-laravel5](https://github.com/janhenkgerritsen/codeception-laravel5)
 * [SpartzInc: text-formatter](https://github.com/SpartzInc/text-formatter)
 * [Lecterror: cakephp-fusion-charts-plugin](https://github.com/lecterror/cakephp-fusion-charts-plugin)
+* [maherio: phpstats](https://github.com/maherio/phpstats)
 * [Modomg: codeigniter-rackspace-cloudfiles](https://github.com/modomg/codeigniter-rackspace-cloudfiles)
 * [Modomg: codeigniter-pagination](https://github.com/modomg/codeigniter-pagination)
 
