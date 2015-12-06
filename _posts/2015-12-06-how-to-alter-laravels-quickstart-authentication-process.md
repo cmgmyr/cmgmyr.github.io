@@ -2,7 +2,7 @@
 title: How to alter Laravel's "quickstart" authentication process
 author: Chris
 layout: post
-permalink: /2015/05/how-to-alter-laravels-quickstart-authentication-process/
+permalink: /2015/12/how-to-alter-laravels-quickstart-authentication-process/
 categories:
   - Code
 tags:
