@@ -12,6 +12,7 @@ Over the last few years I've really enjoyed working on side and open source proj
 ## My Open Source Projects
 
 * [laravel-messenger](https://github.com/cmgmyr/laravel-messenger) _Simple user messaging package for Laravel (4 & 5)_
+* [gistvote](https://github.com/cmgmyr/gistvote) _Easily use your GitHub gists as a voting platform_
 * [song-suggest](https://github.com/cmgmyr/song-suggest) _Song Suggestion Manager for Bands (Laravel 4)_
 * [homestead-multibox](https://github.com/cmgmyr/homestead-multibox) _Laravel's Homestead for multiple projects on multiple VM's_
 * [text-formatter](https://github.com/SpartzInc/text-formatter) _A simple to use text formatter, primarily used for page/blog titles_
