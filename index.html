@@ -14,8 +14,8 @@ title: Home
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
 
-    {% if post.content contains "&lt;!--more--&gt;" %}
-      {{ post.content | split:"&lt;!--more--&gt;" | first % }}<br /><br />
+    {% if post.content contains '<!--more-->' %}
+      {{ post.content | split:'<!--more-->' | first }}<br /><br />
 
       <a href="{{ post.url }}">Read More</a>
     {% else %}
