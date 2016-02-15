@@ -30,5 +30,6 @@ Over the last few years I've really enjoyed working on side and open source proj
 * [Lecterror: cakephp-fusion-charts-plugin](https://github.com/lecterror/cakephp-fusion-charts-plugin)
 * [adamwathan: eloquent-oauth](https://github.com/adamwathan/eloquent-oauth)
 * [maherio: phpstats](https://github.com/maherio/phpstats)
+* [moxiecode: plupload](https://github.com/moxiecode/plupload)
 
 **Want to see more?** Check out my [GitHub](https://github.com/cmgmyr) profile
