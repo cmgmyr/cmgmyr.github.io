@@ -22,6 +22,7 @@ pages_list:
   About: '/about'
   Connect: '/connect'
   Projects: '/projects'
+  Talks: '/talks'
   Resume: '/resume'
   Archive: '/archive'
   Feed: 'http://feeds.feedburner.com/chrisgmyr'
