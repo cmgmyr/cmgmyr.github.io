@@ -6,12 +6,14 @@ layout: page
 Over the last few years I've really enjoyed working on side and open source projects, both for myself, and contributing to others.
 
 ## My Projects
+* [SlickVoice](https://slickvoice.io) _SaaS to send and process automated invoices with Stripe <small style="color: grey;">($?/mo)</small>_
 * [SlickMail](https://slickmail.io) _SaaS to help validate contact lists against email addresses and social data <small style="color: grey;">($0 - $200/mo)</small>_
 * [Cheetah Builder](http://www.cheetahbuilder.com) _Low-cost SaaS offering a hosted content management system with customized layouts <small style="color: grey;">($10-$100/mo)</small>_
 
 ## My Open Source Projects
 
 * [laravel-messenger](https://github.com/cmgmyr/laravel-messenger) _Simple user messaging package for Laravel (4 & 5)_
+* [slickvoice](https://github.com/cmgmyr/mvp.slickvoice.io) _MVP for SlickVoice.io and demo app for my talk at TrianglePHP_
 * [gistvote](https://github.com/cmgmyr/gistvote) _Easily use your GitHub gists as a voting platform_
 * [song-suggest](https://github.com/cmgmyr/song-suggest) _Song Suggestion Manager for Bands (Laravel 4)_
 * [homestead-multibox](https://github.com/cmgmyr/homestead-multibox) _Laravel's Homestead for multiple projects on multiple VM's_
