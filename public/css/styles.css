@@ -27,3 +27,14 @@
 .post-tags {
   text-align: right;
 }
+
+.post-categories {
+  float:right;
+  display:block;
+  margin-top:-2.5rem;
+  color:#9a9a9a;
+}
+
+#post-content {
+  clear:both;
+}
