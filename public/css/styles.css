@@ -1,3 +1,7 @@
+.tagline{
+  float: right;
+}
+
 // for tag cloud and archives
 .tag-cloud {
   list-style: none;
