@@ -6,6 +6,7 @@ layout: page
 Over the last few years I've really enjoyed working on side and open source projects, both for myself, and contributing to others.
 
 ## My Projects
+* [UseNorth](https://usenorth.com) _CRM for freelancers loosly based on "Eat That Frog!" by Brian Tracy <small style="color: grey;">($15/mo)</small>_
 * [SlickVoice](https://slickvoice.io) _SaaS to send and process automated invoices with Stripe <small style="color: grey;">($?/mo)</small>_
 * [SlickMail](https://slickmail.io) _SaaS to help validate contact lists against email addresses and social data <small style="color: grey;">($0 - $200/mo)</small>_
 * [Cheetah Builder](http://www.cheetahbuilder.com) _Low-cost SaaS offering a hosted content management system with customized layouts <small style="color: grey;">($10-$100/mo)</small>_
