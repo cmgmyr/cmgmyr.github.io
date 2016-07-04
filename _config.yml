@@ -19,21 +19,19 @@ author:
 timezone:         America/New_York
 
 pages_list:
-  About: '/about'
   Connect: '/connect'
   Projects: '/projects'
   Talks: '/talks'
-  Resume: '/resume'
   Archive: '/archive'
   Feed: 'http://feeds.feedburner.com/chrisgmyr'
 
 follow_me:
   Github: 'https://github.com/cmgmyr'
-  CodeMentor: 'https://www.codementor.io/cmgmyr'
+  Twitter: 'https://twitter.com/cmgmyr'
+  Medium: 'https://medium.com/@cmgmyr'
   Instagram: 'http://instagram.com/cmgmyr'
   LinkedIn: 'http://www.linkedin.com/in/chrisgmyr'
   StackOverflow: 'http://stackoverflow.com/users/1791532/chris-g'
-  Twitter: 'https://twitter.com/cmgmyr'
 
 gems: [
   'jekyll-paginate',

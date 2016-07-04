@@ -5,18 +5,18 @@ layout: page
 dsq_thread_id:
   - 3401832962
 ---
-Please feel free to <a href='mailto&#58;&#99;%6D&#103;&#109;y%72&#37;40&#103;m%61&#37;69l&#46;co&#109;'>email me</a> or connect on the following sites:
+Please feel free to <a href='mailto:cmgmyr@gmail.com'>email me</a> or connect on the following sites:
 
-  * <a href="http://www.linkedin.com/in/chrisgmyr" target="_blank">LinkedIn</a>
   * <a href="https://github.com/cmgmyr" target="_blank">GitHub</a>
-  * <a href="http://stackoverflow.com/users/1791532/chris-g" target="_blank">StackOverflow</a>
   * <a href="https://twitter.com/cmgmyr" target="_blank">Twitter</a>
+  * <a href="https://medium.com/@cmgmyr" target="_blank">Medium</a>
+  * <a href="https://www.instagram.com/cmgmyr/" target="_blank">Instagram</a>
+  * <a href="http://www.linkedin.com/in/chrisgmyr" target="_blank">LinkedIn</a>
+  * <a href="http://stackoverflow.com/users/1791532/chris-g" target="_blank">StackOverflow</a>
 
-My [resume][1] is also available in PDF or DOCX formats. You can also see the [talks](/talks) that I have given.
+You can also see the [talks](/talks) that I have given.
 
 Around the web:
 
   * <a href="https://laravel-news.com/2014/11/laravel-user-messenger/" target="_blank">Laravel Messenger Writeup</a>
   * <a href="https://laravel-news.com/2015/01/artisan-files-chris-gmyr/" target="_blank">Laravel News Interview</a> <small>(also published through [LeanPub](https://leanpub.com/theartisanfiles-volume2))</small>
-
- [1]: /resume/
