@@ -14,7 +14,7 @@ Please feel free to <a href='mailto:cmgmyr@gmail.com'>email me</a> or connect on
   * <a href="http://www.linkedin.com/in/chrisgmyr" target="_blank">LinkedIn</a>
   * <a href="http://stackoverflow.com/users/1791532/chris-g" target="_blank">StackOverflow</a>
 
-You can also see the [talks](/talks) that I have given.
+You can also see the [projects](/projects) that I work on and [talks](/talks) that I've given.
 
 Around the web:
 
