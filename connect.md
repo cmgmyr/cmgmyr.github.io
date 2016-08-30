@@ -20,3 +20,5 @@ Around the web:
 
   * <a href="https://laravel-news.com/2014/11/laravel-user-messenger/" target="_blank">Laravel Messenger Writeup</a>
   * <a href="https://laravel-news.com/2015/01/artisan-files-chris-gmyr/" target="_blank">Laravel News Interview</a> <small>(also published through [LeanPub](https://leanpub.com/theartisanfiles-volume2))</small>
+
+Interested in seeing my resume? Sure! Please <a href='mailto:cmgmyr@gmail.com'>email me</a> and I'll be happy to send it your way.
