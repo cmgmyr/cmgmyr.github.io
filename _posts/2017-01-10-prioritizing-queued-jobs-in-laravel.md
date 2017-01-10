@@ -51,7 +51,7 @@ dispatch((new JobFinish($data))->onQueue('finish'));
 
 I wanted to make sure we ran all of the jobs in order, and only continued onto the next set of jobs once the current batch was finished. This was very important since the application could easily have 20, or so, JobAs, 50 JobBs, and hundreds of JobCs.
 
-In my supervisior config file, I added something similar to this:
+In my supervisor config file, I added something similar to this:
 
 ```
 [program:artisan-queue]
